@@ -39,7 +39,7 @@ public class Jeroo extends JerooBase {
   hop();
   }
         
-    }
+   
     // Put any helpermethods here
     
   
