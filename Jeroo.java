@@ -5,7 +5,7 @@
 public class Jeroo extends JerooBase {
 
     
-    public void plantCross() { 
+  public void plantCross() { 
   hopTwo();
   hopTwo();
   hopTwo();
@@ -54,11 +54,13 @@ public void hopPlantThree() {
   hopPlantTwo();
 }
 //uses the hopPlant command two times
+
 public void hopPlantTwo() {
   hopPlant();
   hopPlant();
 }
 //makes the Jeroo hop twice
+
 public void hopTwo() {
   hop();
   hop();
